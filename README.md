@@ -18,7 +18,7 @@ Este projeto é um sistema de cadastro de alunos desenvolvido para facilitar a g
 - **Bibliotecas:** tkinter, sqlite3, PIL, datetime, tkcalendar
 
 
-
+![Imagem do sistema](sistema_imagem.png)
 
 
 
